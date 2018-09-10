@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='cs' lang='cs'>
+<head>
+<title>Dr. Umar Albalawi</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="styl.css" type="text/css" />
+</head>
+<style type = "text/css">
+    span{
+	  color:red;
+	}
+</style>
+<body>
+<div id="pattern-gradient"></div>
+<div id='page'>
+  <!--p id='header'>Dr. Umar Albalawi</p-->
+  <table >
+     <tr>
+	       <td><img src="images/UmarAlbalawi.jpg" height="200" alt="" class="left" /></td>
+		   <td><h1>Dr. Umar Albalawi</h1><br/><p>  Assistent Professor and Department Chair <br/> Department of Computer Engineering <br/> University of Tabuk <br/> Tabuk, Saudi Arabia <br/> Phone: (+966)-14-427-3022 <br/> E-mail: UAlbalwi@ut.edu.sa</p></td>
+	 </tr>
+  </table>
+  <ul id='menu'>
+	<li><a href="index.html">Home</a></li>
+    <li><a href="Background.html">Background</a></li>
+    <li><a href="Teaching.html">Teaching</a></li>
+    <li><a href="Publication.html">Publication</a></li>
+    <li><a href="ProfessionalActivities.html">Professional Activities</a></li>
+  </ul>
+  <div id='contain'>
+  <h1> CEN 437 Computer and network Security</h1>
+  
+  <h1>Course Description:</h1>  
+  <p> Security is becoming one of the core requirements in the design of critical systems. This course will introduce students to computer security and applied cryptography. Students will learn the concepts in computer security including software vulnerability analysis and defense, networking, wireless sensor networks security, and applied cryptography. Students will also learn the fundamental methodology for how to design and analyze security critical systems.</p>
+<h1> Expected Student Learning Outcomes:</h1>
+<ul>
+<li> Students will be exposed to Basic Security Principles </li> 
+<li> Introduce applied Cryptography: symmetric primitives (block ciphers, stream ciphers, hash functions), asymmetric  primitives (public-key encryption and signature algorithms)</li>
+<li> Network security: SSL/TLS, IPsec, SSH </li>
+<li> Presents Sensor Network Security </li>
+<li> Introduce varies threats models in Sensor Networks</li>
+<li> Be familiar with vulnerability analysis and security schemes in Sensor Networks </li>
+
+</ul>
+<h1> Text Book:</h1>
+<p> Security in Computing, Charles P. Pfleeger and Shari Lawrence Pfleeger, 4th edition, Prentice Hall, ISBN 10: 0132390779 </p>
+
+<h1>Grading Policy:</h1>
+<ul>
+<li> Homework  (10 %)</li>
+<li> Quiz (10 %)</li>
+<li> Project (30 %) </li>
+<li> Midterm Exam (20 %) </li>
+<li> Final Exam: Comprehensive (30 %)</li>
+</ul>
+<h1>Course Content:</h1>
+<img src="images/coursecontent3.JPG" height="650" alt="" class="left" />
+  <table >  
+     <tr>
+		   <td>Lectures:</td>
+		   <td>
+		   <ul>
+		   <li><a href="https://drive.google.com/file/d/1dDTqNaMYbxdXxRTuC0-3utSFSGWWN_Ze/view?usp=sharing">Introduction to Computer Security</a></li>
+		   <li><a href="https://drive.google.com/file/d/1AzpQuTDi96GiYLg4rBPe0WvwgNHH45Ca/view?usp=sharing">Crypto overview, DES/AES algorithm</a></li>
+		   <li><a href="https://drive.google.com/file/d/1Q8ciPS2pECqH3_S8oWQ_tSX_wf0Lm5Pr/view?usp=sharing">RSA algorithm</a></li>
+		   <li><a href="https://drive.google.com/file/d/1lofmlyhZzaIPrIGvI2TD4dDHroY6D5tq/view?usp=sharing">Software Security</a></li>
+		   <li><a href="https://drive.google.com/file/d/16sFp7mnV0NGDjYsXxy6wxI4Y2vrVhYA_/view?usp=sharing">Operating System Security</a></li>
+		   <li><a href="https://drive.google.com/file/d/1FLu_CETlVwSCq-l33H_soy91bh9B6922/view?usp=sharing">Network Basics</a></li>
+		   <li><a href="https://drive.google.com/file/d/1-VPhyuONfCzuxNXdIiQKBi4xMuUFH1bm/view?usp=sharing">Security in Networks</a></li>
+		   <li><a href="https://drive.google.com/file/d/1iQbZVbJFwsojevqrjAETDM4yvi21GYO1/view?usp=sharing">Operatinal Security</a></li>
+		   </ul>
+		   </td>
+
+	 </tr>
+  </table>
+      <hr/>    
+  <table >
+     <tr>
+		   <td>homework</td>
+		   <td>
+		   <ul>
+		   <li> <a href="https://drive.google.com/file/d/1nnZ4DVmGBhOoUNXRE10eZwMoSOK1hhI6/view?usp=sharing">Homework 1| <span>available in 26/10/1439</span></li>
+		   <li> <a href="https://drive.google.com/file/d/17fDxNcy2IPOL6sPlOku8DOpC44qnvcy5/view?usp=sharing">Homework 2 | <span>available in 11/11/1439</span></a></li>
+
+		   </ul>
+		   </td>      
+
+	 </tr>
+  </table>
+	<hr/>
+  <table >      
+     <tr>
+		   <td>Project</td>
+		   <td>
+		   <ul>
+		   <li><a href="https://drive.google.com/file/d/1kF9B3nlN83dHL6YU1kIQ9oIBkRUXtgXD/view?usp=sharing">Project </a> | <span>report due date in 23/11/1439 | Presentation in 30/11/1439 </span></li>
+
+		   </ul>
+		   </td>  
+
+	 </tr>
+  </table>
+	<hr/>
+  <table >   
+     <tr>
+		   <td>Exercises:</td>
+		   <td>
+		   <ul>
+		   <li> <a href="https://drive.google.com/file/d/179jVOx6XaEHY2Ur2bVvJ8zD7I78u2oVK/view?usp=sharing"> using RSA Algorithm </a></li>
+                   <li>  Midterm-Key-answer </a></li>
+		   </ul>
+		   </td>  
+
+	 </tr>
+  </table>
+  </div>
+</div>
+</body>
+</html>
